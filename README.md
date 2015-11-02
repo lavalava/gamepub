@@ -1,7 +1,7 @@
 gamepub
 =======
 
-online game micro blogging service
+Online game micro blogging service based on PHP.
 
 Game pub is a fork from status.net by Shaier technology.
 We added features we considered to be useful for gamers
@@ -17,7 +17,7 @@ Collaborators
 ========
 
 - Shengkai Zhou
-- Guofu Xie
+- Zhenhua Cao
 - Rui Ma
 - Agun Chen
 - Changsheng Lin
